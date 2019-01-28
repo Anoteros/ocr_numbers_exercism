@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e8cec63c-082e-46ec-b848-e8c8832d9e1e" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/ocr_numbers_exercism@test_recognizes_1__ocr_numbers_exercism.rcov" NAME="test_recognizes_1: ocr_numbers_exercism Coverage Results" MODIFIED="1548701437283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ocr_numbers_exercism" />
+    <SUITE FILE_PATH="coverage/ocr_numbers_exercism@test_recognizes_3__ocr_numbers_exercism.rcov" NAME="test_recognizes_3: ocr_numbers_exercism Coverage Results" MODIFIED="1548716158271" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ocr_numbers_exercism" />
+    <SUITE FILE_PATH="coverage/ocr_numbers_exercism@test_recognizes_5__ocr_numbers_exercism.rcov" NAME="test_recognizes_5: ocr_numbers_exercism Coverage Results" MODIFIED="1548716202632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ocr_numbers_exercism" />
+    <SUITE FILE_PATH="coverage/ocr_numbers_exercism@test_recognizes_7__ocr_numbers_exercism.rcov" NAME="test_recognizes_7: ocr_numbers_exercism Coverage Results" MODIFIED="1548719013832" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ocr_numbers_exercism" />
+    <SUITE FILE_PATH="coverage/ocr_numbers_exercism@test_garbled_numbers_in_a_string_are_replaced_with_question_mark__ocr_numbers_exercism.rcov" NAME="test_garbled_numbers_in_a_string_are_replaced_with_question_mark: ocr_numbers_exercism Coverage Results" MODIFIED="1548715883036" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ocr_numbers_exercism" />
+    <SUITE FILE_PATH="coverage/ocr_numbers_exercism@test_recognizes_4__ocr_numbers_exercism.rcov" NAME="test_recognizes_4: ocr_numbers_exercism Coverage Results" MODIFIED="1548716165027" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ocr_numbers_exercism" />
+    <SUITE FILE_PATH="coverage/ocr_numbers_exercism@test_recognizes_110101100__ocr_numbers_exercism.rcov" NAME="test_recognizes_110101100: ocr_numbers_exercism Coverage Results" MODIFIED="1548715865616" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ocr_numbers_exercism" />
+    <SUITE FILE_PATH="coverage/ocr_numbers_exercism@test_unreadable_but_correctly_sized_inputs_return_question_mark__ocr_numbers_exercism.rcov" NAME="test_unreadable_but_correctly_sized_inputs_return_question_mark: ocr_numbers_exercism Coverage Results" MODIFIED="1548718836889" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ocr_numbers_exercism" />
+    <SUITE FILE_PATH="coverage/ocr_numbers_exercism@test_input_with_a_number_of_columns_that_is_not_a_multiple_of_three_raises_an_error__ocr_numbers_exercism.rcov" NAME="test_input_with_a_number_of_columns_that_is_not_a_multiple_of_three_raises_an_error: ocr_numbers_exercism Coverage Results" MODIFIED="1548718999765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ocr_numbers_exercism" />
+    <SUITE FILE_PATH="coverage/ocr_numbers_exercism@test_recognizes_2__ocr_numbers_exercism.rcov" NAME="test_recognizes_2: ocr_numbers_exercism Coverage Results" MODIFIED="1548716153239" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ocr_numbers_exercism" />
+    <SUITE FILE_PATH="coverage/ocr_numbers_exercism@test_recognizes_6__ocr_numbers_exercism.rcov" NAME="test_recognizes_6: ocr_numbers_exercism Coverage Results" MODIFIED="1548716224617" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ocr_numbers_exercism" />
+    <SUITE FILE_PATH="coverage/ocr_numbers_exercism@test_numbers_separated_by_empty_lines_are_recognized_lines_are_joined_by_commas__ocr_numbers_exercism.rcov" NAME="test_numbers_separated_by_empty_lines_are_recognized_lines_are_joined_by_commas: ocr_numbers_exercism Coverage Results" MODIFIED="1548718773646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ocr_numbers_exercism" />
+    <SUITE FILE_PATH="coverage/ocr_numbers_exercism@Run_test__OcrNumbersTest___ocr_numbers_exercism.rcov" NAME="Run test 'OcrNumbersTest': ocr_numbers_exercism Coverage Results" MODIFIED="1548713597943" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ocr_numbers_exercism" />
+    <SUITE FILE_PATH="coverage/ocr_numbers_exercism@test_recognizes_9__ocr_numbers_exercism.rcov" NAME="test_recognizes_9: ocr_numbers_exercism Coverage Results" MODIFIED="1548716457290" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ocr_numbers_exercism" />
+    <SUITE FILE_PATH="coverage/ocr_numbers_exercism@test_recognizes_string_of_decimal_numbers__ocr_numbers_exercism.rcov" NAME="test_recognizes_string_of_decimal_numbers: ocr_numbers_exercism Coverage Results" MODIFIED="1548718321654" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ocr_numbers_exercism" />
+    <SUITE FILE_PATH="coverage/ocr_numbers_exercism@Run_test__ocr_numbers_test___ocr_numbers_exercism.rcov" NAME="Run test 'ocr_numbers_test': ocr_numbers_exercism Coverage Results" MODIFIED="1548719042683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ocr_numbers_exercism" />
+    <SUITE FILE_PATH="coverage/ocr_numbers_exercism@test_recognizes_0__ocr_numbers_exercism.rcov" NAME="test_recognizes_0: ocr_numbers_exercism Coverage Results" MODIFIED="1548701379506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ocr_numbers_exercism" />
+    <SUITE FILE_PATH="coverage/ocr_numbers_exercism@test_input_with_a_number_of_lines_that_is_not_a_multiple_of_four_raises_an_error__ocr_numbers_exercism.rcov" NAME="test_input_with_a_number_of_lines_that_is_not_a_multiple_of_four_raises_an_error: ocr_numbers_exercism Coverage Results" MODIFIED="1548715625727" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ocr_numbers_exercism" />
+    <SUITE FILE_PATH="coverage/ocr_numbers_exercism@test_recognizes_8__ocr_numbers_exercism.rcov" NAME="test_recognizes_8: ocr_numbers_exercism Coverage Results" MODIFIED="1548716454002" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ocr_numbers_exercism" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-504074799">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="rb" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Ruby" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="rb" value="2561" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Ruby" value="2561" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.5">
+      <split-first>
+        <leaf>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/ocr_numbers.rb">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="407">
+                  <caret line="38" column="7" lean-forward="true" selection-start-line="38" selection-start-column="7" selection-end-line="38" selection-end-column="7" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/ocr_numbers_test.rb">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="373">
+                  <caret line="168" column="3" lean-forward="true" selection-start-line="168" selection-start-column="3" selection-end-line="168" selection-end-column="3" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/ocr_numbers_test.rb" />
+        <option value="$PROJECT_DIR$/ocr_numbers.rb" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="158" />
+    <option name="y" value="123" />
+    <option name="width" value="1440" />
+    <option name="height" value="877" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Ruby</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Rubocop</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ocr_numbers_exercism" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ocr_numbers_exercism" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Test::Unit/Shoulda/Minitest.Run test 'ocr_numbers_test': ocr_numbers_exercism">
+    <configuration name="Run test 'ocr_numbers_test': ocr_numbers_exercism" type="TestUnitRunConfigurationType" factoryName="Test::Unit/Shoulda/Minitest" temporary="true">
+      <predefined_log_file id="RUBY_TESTUNIT" enabled="true" />
+      <module name="ocr_numbers_exercism" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs>
+        <env name="JRUBY_OPTS" value="-X+O" />
+      </envs>
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/ocr_numbers_test.rb" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_METHOD_NAME" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_OPTIONS" VALUE="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_input_with_a_number_of_columns_that_is_not_a_multiple_of_three_raises_an_error: ocr_numbers_exercism" type="TestUnitRunConfigurationType" factoryName="Test::Unit/Shoulda/Minitest" temporary="true">
+      <predefined_log_file id="RUBY_TESTUNIT" enabled="true" />
+      <module name="ocr_numbers_exercism" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs>
+        <env name="JRUBY_OPTS" value="-X+O" />
+      </envs>
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/ocr_numbers_test.rb" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_METHOD_NAME" VALUE="test_input_with_a_number_of_columns_that_is_not_a_multiple_of_three_raises_an_error" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_METHOD" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_OPTIONS" VALUE="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_numbers_separated_by_empty_lines_are_recognized_lines_are_joined_by_commas: ocr_numbers_exercism" type="TestUnitRunConfigurationType" factoryName="Test::Unit/Shoulda/Minitest" temporary="true">
+      <predefined_log_file id="RUBY_TESTUNIT" enabled="true" />
+      <module name="ocr_numbers_exercism" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs>
+        <env name="JRUBY_OPTS" value="-X+O" />
+      </envs>
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/ocr_numbers_test.rb" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_METHOD_NAME" VALUE="test_numbers_separated_by_empty_lines_are_recognized_lines_are_joined_by_commas" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_METHOD" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_OPTIONS" VALUE="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_recognizes_7: ocr_numbers_exercism" type="TestUnitRunConfigurationType" factoryName="Test::Unit/Shoulda/Minitest" temporary="true">
+      <predefined_log_file id="RUBY_TESTUNIT" enabled="true" />
+      <module name="ocr_numbers_exercism" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs>
+        <env name="JRUBY_OPTS" value="-X+O" />
+      </envs>
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/ocr_numbers_test.rb" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_METHOD_NAME" VALUE="test_recognizes_7" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_METHOD" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_OPTIONS" VALUE="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_unreadable_but_correctly_sized_inputs_return_question_mark: ocr_numbers_exercism" type="TestUnitRunConfigurationType" factoryName="Test::Unit/Shoulda/Minitest" temporary="true">
+      <predefined_log_file id="RUBY_TESTUNIT" enabled="true" />
+      <module name="ocr_numbers_exercism" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs>
+        <env name="JRUBY_OPTS" value="-X+O" />
+      </envs>
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/ocr_numbers_test.rb" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_METHOD_NAME" VALUE="test_unreadable_but_correctly_sized_inputs_return_question_mark" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_METHOD" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_OPTIONS" VALUE="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Test::Unit/Shoulda/Minitest.test_numbers_separated_by_empty_lines_are_recognized_lines_are_joined_by_commas: ocr_numbers_exercism" />
+      <item itemvalue="Test::Unit/Shoulda/Minitest.Run test 'ocr_numbers_test': ocr_numbers_exercism" />
+      <item itemvalue="Test::Unit/Shoulda/Minitest.test_input_with_a_number_of_columns_that_is_not_a_multiple_of_three_raises_an_error: ocr_numbers_exercism" />
+      <item itemvalue="Test::Unit/Shoulda/Minitest.test_unreadable_but_correctly_sized_inputs_return_question_mark: ocr_numbers_exercism" />
+      <item itemvalue="Test::Unit/Shoulda/Minitest.test_recognizes_7: ocr_numbers_exercism" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Test::Unit/Shoulda/Minitest.Run test 'ocr_numbers_test': ocr_numbers_exercism" />
+        <item itemvalue="Test::Unit/Shoulda/Minitest.test_recognizes_7: ocr_numbers_exercism" />
+        <item itemvalue="Test::Unit/Shoulda/Minitest.test_input_with_a_number_of_columns_that_is_not_a_multiple_of_three_raises_an_error: ocr_numbers_exercism" />
+        <item itemvalue="Test::Unit/Shoulda/Minitest.test_unreadable_but_correctly_sized_inputs_return_question_mark: ocr_numbers_exercism" />
+        <item itemvalue="Test::Unit/Shoulda/Minitest.test_numbers_separated_by_empty_lines_are_recognized_lines_are_joined_by_commas: ocr_numbers_exercism" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpringUtil" SPRING_PRE_LOADER_OPTION="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e8cec63c-082e-46ec-b848-e8c8832d9e1e" name="Default Changelist" comment="" />
+      <created>1548700593684</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1548700593684</updated>
+      <workItem from="1548700596288" duration="10579000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="test_numbers_separated_by_empty_lines_are_recognized_lines_are_joined_by_commas__ocr_numbers_exercism - 2019.01.28 at 15h 39m 34s.xml">
+      <configuration name="test_numbers_separated_by_empty_lines_are_recognized_lines_are_joined_by_commas: ocr_numbers_exercism" configurationId="TestUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Run_test_'ocr_numbers_test'__ocr_numbers_exercism - 2019.01.28 at 15h 40m 19s.xml">
+      <configuration name="Run test 'ocr_numbers_test': ocr_numbers_exercism" configurationId="TestUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="test_input_with_a_number_of_columns_that_is_not_a_multiple_of_three_raises_an_error__ocr_numbers_exercism - 2019.01.28 at 15h 40m 33s.xml">
+      <configuration name="test_input_with_a_number_of_columns_that_is_not_a_multiple_of_three_raises_an_error: ocr_numbers_exercism" configurationId="TestUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="test_unreadable_but_correctly_sized_inputs_return_question_mark__ocr_numbers_exercism - 2019.01.28 at 15h 40m 37s.xml">
+      <configuration name="test_unreadable_but_correctly_sized_inputs_return_question_mark: ocr_numbers_exercism" configurationId="TestUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="test_input_with_a_number_of_columns_that_is_not_a_multiple_of_three_raises_an_error__ocr_numbers_exercism - 2019.01.28 at 15h 40m 45s.xml">
+      <configuration name="test_input_with_a_number_of_columns_that_is_not_a_multiple_of_three_raises_an_error: ocr_numbers_exercism" configurationId="TestUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="test_input_with_a_number_of_columns_that_is_not_a_multiple_of_three_raises_an_error__ocr_numbers_exercism - 2019.01.28 at 15h 41m 36s.xml">
+      <configuration name="test_input_with_a_number_of_columns_that_is_not_a_multiple_of_three_raises_an_error: ocr_numbers_exercism" configurationId="TestUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="test_input_with_a_number_of_columns_that_is_not_a_multiple_of_three_raises_an_error__ocr_numbers_exercism - 2019.01.28 at 15h 43m 20s.xml">
+      <configuration name="test_input_with_a_number_of_columns_that_is_not_a_multiple_of_three_raises_an_error: ocr_numbers_exercism" configurationId="TestUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Run_test_'ocr_numbers_test'__ocr_numbers_exercism - 2019.01.28 at 15h 43m 25s.xml">
+      <configuration name="Run test 'ocr_numbers_test': ocr_numbers_exercism" configurationId="TestUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="test_recognizes_7__ocr_numbers_exercism - 2019.01.28 at 15h 43m 34s.xml">
+      <configuration name="test_recognizes_7: ocr_numbers_exercism" configurationId="TestUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Run_test_'ocr_numbers_test'__ocr_numbers_exercism - 2019.01.28 at 15h 44m 03s.xml">
+      <configuration name="Run test 'ocr_numbers_test': ocr_numbers_exercism" configurationId="TestUnitRunConfigurationType" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="10579000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="158" y="123" width="1440" height="877" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.24964234" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" weight="0.3298292" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3298292" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/ocr_numbers.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="407">
+          <caret line="38" column="7" lean-forward="true" selection-start-line="38" selection-start-column="7" selection-end-line="38" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ocr_numbers_test.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="373">
+          <caret line="168" column="3" lean-forward="true" selection-start-line="168" selection-start-column="3" selection-end-line="168" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
